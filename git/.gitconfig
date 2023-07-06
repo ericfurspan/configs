@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Eric Furspan
+	email = ericfurspan@gmail.com
+
+[pull]
+ 	rebase = false
+
+[init]
+	defaultbranch = main
