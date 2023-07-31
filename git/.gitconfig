@@ -7,4 +7,4 @@
  	rebase = false
 
 [init]
-	defaultbranch = main
+	defaultbranch = master
